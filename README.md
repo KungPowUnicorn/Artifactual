@@ -20,7 +20,7 @@ I have sorted these images into four distinct tiers of competence (or lack there
 * **Status:** "The Beige Tier."
 * **Description:** The result of over-sanitized safety filters and uninspired models. It’s a woman holding a coffee cup in a sunlit office. It’s so boring it’s offensive. The "Corporate Memphis" of AI.
 
-### Tier 4: The Abominations (Digital Crimes)
+### Tier 4: The Unholy (Digital Crimes)
 * **Status:** "Call an Exorcist."
 * **Description:** Total prompt divorce. Physics is a suggestion. A "Cat on a Bike" became a bicycle made of feline limbs. These stay in the repository purely as legal evidence against the developers.
 
