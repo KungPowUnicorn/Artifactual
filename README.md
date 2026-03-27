@@ -35,18 +35,6 @@ I have sorted these images into four distinct tiers of competence (or lack there
 * **Leonardo.ai / SeaArt:** The Credit-Hungry. High quality, until you run out of daily tokens and it starts drawing stick figures.
 
 ---
-
-## Folder Structure
-
-The repository is organized by quality first, then platform, because your eyes deserve a warning before they hit the bottom tier.
-
-/
-├── 01_the_ascended/     # Images I'd show my mother.
-├── 02_the_glitchy/         # Look, but don't touch.
-├── 03_the_banal/          # For your next boring PowerPoint.
-└── 04_the_unholy/        # Images that will haunt your cache.
-
----
 ## Usage & Licensing
 If you find an "Ascended" image, feel free to use it. If you find an "Unholy" one, please use it as a warning to future generations. No AI was harmed in the making of this repo, though several GPUs were likely very confused.
 
